@@ -1,0 +1,8 @@
+Width=120
+Height=90
+NrIn=1
+NrOut=1
+Keys=10
+StaticTraps=30
+DynamicTraps=20
+Density=2
