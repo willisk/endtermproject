@@ -33,9 +33,16 @@ and a forest level.
 ## Installing
 To run the game, clone the repository and run the main class in Java:
 
+Clone the repository:
 ```
 git clone https://github.com/williskurt/endtermproject
+```
+To compile the game use:
+```
 cd endtermproject/src
 javac game/*.java
+```
+To run the game, be sure to be a folder above the .class files (so either in /bin or /src) and run:
+```
 java game.Game
 ```
