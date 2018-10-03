@@ -30,7 +30,7 @@ and a forest level.
 
 ![Alt text](demo_6.png?raw=true "Game Over")
 
-##Installing
+## Installing
 To run the game, clone the repository and run the main class in Java:
 
 ```
