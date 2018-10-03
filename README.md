@@ -37,12 +37,12 @@ Clone the repository:
 ```
 git clone https://github.com/williskurt/endtermproject
 ```
-To compile the game use:
+Compile:
 ```
 cd endtermproject/src
 javac game/*.java
 ```
-To run the game, be sure to be a folder above the .class files (so either in /bin or /src) and run:
+Run (either from /bin or /src):
 ```
 java game.Game
 ```
