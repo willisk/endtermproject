@@ -46,3 +46,7 @@ Run (either from /bin or /src):
 ```
 java game.Game
 ```
+
+Note:
+Tested on Linux and Windows.
+The Swing Window sometimes has some difficulties being displayed on mac os
